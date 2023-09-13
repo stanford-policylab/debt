@@ -1,0 +1,15 @@
+data/states
+data/repro/*
+!data/repro/.gitkeep
+revenue/ 
+*~
+*.sw?
+.RData
+.Rhistory
+__pycache__
+proposal
+plots/
+.git.bfg-report/
+*.pdf
+/lib/nb/*
+!/lib/nb/*.Rmd

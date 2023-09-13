@@ -1,0 +1,10 @@
+.col-sm-4 {
+  position: fixed;
+  margin-top: 10px;
+  overflow-y: auto;
+  max-height: 100%;
+}
+
+.col-sm-8 {
+  margin-left: 33.3333333333%
+}
